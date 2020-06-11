@@ -2,7 +2,7 @@ package UsacoLeeland;
 import java.io.BufferedReader;
 	import java.io.IOException;
 	import java.io.InputStreamReader;
-	public class Usaco {
+	public class MilkMeasurement {
 		public static int num(String x)
 		{
 			if(x.equals("Bessie"))
