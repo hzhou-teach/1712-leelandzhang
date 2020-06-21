@@ -8,7 +8,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Scanner;
-
+/*
 public class billboard_2_bronze 
 {
 	public static void main(String args[]) throws IOException
@@ -39,3 +39,14 @@ public class billboard_2_bronze
 		pr.close();
 	}
 }
+*/
+public class billboard_2_bronze 
+{
+	public static void main(String args[]) throws IOException
+	{
+		for(int i=0; i<0; i++)
+		{
+			System.out.print("hi");
+	}
+}
+	}
